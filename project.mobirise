@@ -1,0 +1,198 @@
+{
+  "settings": {
+    "name": "dove",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#2b0680",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.6.6",
+    "uniqCompNum": 15,
+    "versionPublish": "4.6.6",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "FREE Dove® Product Samples",
+          "text": "SuperSave offers deals, coupons, freebies, samples and other related offers through our extensive list of savings opportunities. Although there is no purchase required to access our list<br>\n<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"http://clixtk.com/s/6fD/\" data-toolbar=\"-mbrBtnMove\">READ MORE</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-d"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dove1-600x360.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://clixtk.com/s/6fD/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dove2-600x554.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://clixtk.com/s/6fD/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dove3-600x335.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://clixtk.com/s/6fD/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dove-port-william-setiawan-600x362.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://clixtk.com/s/6fD/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "<br><br>",
+          "subtitle1": "Rich Moisture Tip to Toe Wash<br><br>",
+          "caption1": "A tear-free and hypoallergenic baby wash and shampoo that replenishes essential nutrients and moisture to your baby’s delicate skin.<br>",
+          "title2": "",
+          "subtitle2": "Dove Exfoliating Body Polish Crushed Macadamia &amp; Rice Milk",
+          "caption2": "Polish your skin with a body scrub that nourishes, for a silky smooth feeling. Infused with the scent of macadamia.<br><br>",
+          "title3": "<br><br>",
+          "subtitle3": "Dove 'Real Beauty Pledge'<br><br>",
+          "caption3": "Dove invites all women to realize their personal potential for beauty by engaging them with products that deliver superior care.<br>",
+          "title4": "<br><br>",
+          "subtitle4": "#RealMoms<br><br>",
+          "caption4": "We believe there's no right way to be a mom. So whether you do it by the book or make it up as you go, trust your way.<br><br>",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"http://clixtk.com/s/6fD/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Discover more</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://clixtk.com/s/6fD/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Discover more</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://clixtk.com/s/6fD/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Discover more</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://clixtk.com/s/6fD/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Discover more</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-e",
+          "_styles": {
+            "H5": {
+              "color": "#000000"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
